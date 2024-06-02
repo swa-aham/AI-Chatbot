@@ -1,5 +1,7 @@
 # AI-Chatbot
 
+We will be live soon
+
 ## Technologies Used
 
 ### Backend
